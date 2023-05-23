@@ -1,0 +1,5 @@
+C:\DATA\Neha\NJIT\F2021 S3\IT 201\IT 201 Project\Assets\Scripts\obj\Debug\net5.0\Scripts.csproj.AssemblyReference.cache
+C:\DATA\Neha\NJIT\F2021 S3\IT 201\IT 201 Project\Assets\Scripts\obj\Debug\net5.0\Scripts.GeneratedMSBuildEditorConfig.editorconfig
+C:\DATA\Neha\NJIT\F2021 S3\IT 201\IT 201 Project\Assets\Scripts\obj\Debug\net5.0\Scripts.AssemblyInfoInputs.cache
+C:\DATA\Neha\NJIT\F2021 S3\IT 201\IT 201 Project\Assets\Scripts\obj\Debug\net5.0\Scripts.AssemblyInfo.cs
+C:\DATA\Neha\NJIT\F2021 S3\IT 201\IT 201 Project\Assets\Scripts\obj\Debug\net5.0\Scripts.csproj.CoreCompileInputs.cache
