@@ -1,12 +1,3 @@
-'''
-Neha Shirwalker - nps38
-CS 341-007 Fall 2022
-Project 1 - Due: Thursday, Oct. 6th
-'''
-#1. Program first prints:
-print("Project 1 for CS 341\nSection number: 007\nSemester: Fall 2022\nWritten by: Neha Shirwalker, nps38\nInstructor: Marvin Nakayama, marvin@njit.edu")
-
-
 # Define sets of characters that fall under the language L. These are considered accepted characters in a given string.
 gamma = {'a', 'b', 'c', 'd', 'e', 'f', 'g', 'h', 'i', 'j', 'k', 'l', 'm', 'n', 'o', 'p', 'q', 'r', 's', 't', 'u', 'v', 'w', 'x', 'y', 'z'} # All lower-case Roman letters
 Lambda = {'0', '1', '2', '3', '4', '5', '6', '7', '8', '9'} # All Arabic numerals
@@ -164,26 +155,26 @@ def q10(index, string):
 
 
 # Test Cases 1-20
-# dfa('f8o9o@ab32cdef.com')
-# dfa('z@c.com')
-# dfa('ba@ba.co')
-# dfa('edfg@.com')
-# dfa('web2web.a.c97c.com@j.k68c42.computer.com')
-# dfa('fo8o@goo2.com..com')
-# dfa('ab67qe.@boom.com')
-# dfa('edu2c@computer56.comp')
-# dfa('redblue@green..com')
-# dfa('random6@com')
-# dfa('p654aa7e@a896.com.com')
-# dfa('www@com.coma')
-# dfa('wwwb@com.co')
-# dfa('34big.com@bbdef29.com')
-# dfa('food@for.com@')
-# dfa('net.a.b.4c@comma3.com.com')
-# dfa('net84work.abb@common.6com.com')
-# dfa('@abcde.com')
-# dfa('people5.d7og.c8at@c.com3.com')
-# dfa('cable..cord@fort.com')
+dfa('f8o9o@ab32cdef.com')
+dfa('z@c.com')
+dfa('ba@ba.co')
+dfa('edfg@.com')
+dfa('web2web.a.c97c.com@j.k68c42.computer.com')
+dfa('fo8o@goo2.com..com')
+dfa('ab67qe.@boom.com')
+dfa('edu2c@computer56.comp')
+dfa('redblue@green..com')
+dfa('random6@com')
+dfa('p654aa7e@a896.com.com')
+dfa('www@com.coma')
+dfa('wwwb@com.co')
+dfa('34big.com@bbdef29.com')
+dfa('food@for.com@')
+dfa('net.a.b.4c@comma3.com.com')
+dfa('net84work.abb@common.6com.com')
+dfa('@abcde.com')
+dfa('people5.d7og.c8at@c.com3.com')
+dfa('cable..cord@fort.com')
 
 
 #2. Ask user if they want to enter a string. Enter y or n. Process string if y, quit if n. Ask user again for another string after process is complete.
